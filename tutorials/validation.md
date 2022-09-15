@@ -14,7 +14,7 @@ permalink: /tutorials/validation/
 
 ---
 
-Validation of a CityJSON dataset means that one must ensure that it respects the standardised specifications and definitions as given in the [specifications]({{ '/specs/latest/' | prepend: site.baseurl }}).
+Validation of a CityJSON dataset means that one must ensure that it respects the standardised specifications and definitions as given in the [specifications](https://www.cityjson.org/specs/overview/).
 
 
 ## Schema validation (is the syntax of the file OK?)
